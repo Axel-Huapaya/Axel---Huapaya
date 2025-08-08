@@ -1,4 +1,4 @@
-# Axel Huapaya 👋
+# Axel Victor Huapaya Huari 👋
 
 ¡Hola! Soy **Axel Víctor Huapaya Huari** — estudiante de Desarrollo de Software en Valle Grande.  
 Me apasiona crear aplicaciones web y aprender sobre inteligencia artificial.
